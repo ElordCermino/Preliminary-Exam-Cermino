@@ -39,5 +39,4 @@ GitHub renders Markdown files natively, so each `.md` file displays cleanly in a
 
 - **File naming consistency** — Early on, I used inconsistent casing for image files, which caused broken image links on case-sensitive systems. I standardized all filenames to a simple `ActivityN.png` pattern and updated the Markdown references accordingly.
 - **Large image sizes** — Some activity screenshots were high-resolution and slow to load. I compressed them before committing to keep the repository lightweight without losing visible quality.
-- **Commit hygiene** — Initially I bundled unrelated changes into single commits. I corrected this by breaking work into smaller, focused commits with clear messages, making the history easier to follow.
 - **README structure** — Getting the table of contents to be both informative and concise took a couple of revisions. I settled on a simple three-column table (number, linked title, topic summary) that communicates everything a reader needs upfront.
