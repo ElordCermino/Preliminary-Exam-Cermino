@@ -1,4 +1,4 @@
-# Preliminary Exam — Cermino
+# 21st Century IT Skills Preliminary Exam — Cermino, Joe Elord
 
 Present and elaborate on each of the three activities completed during the Prelim period. For each activity, explain what you created, why you came up with the concept, and how you developed your final output.
 
