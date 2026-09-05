@@ -4,19 +4,19 @@ Present and elaborate on each of the three activities completed during the Preli
 
 ---
 
-## Activities
+## Activities and Submissions during the Prelim
 
-> 👆 Click the blue activity links in the table below to navigate to each activity.
+> 👆 Click the blue activity links in the table below to navigate to each activity. 👆
 
 | # | Activity | Topic |
 |---|----------|-------|
-| 1 | [Activity 1: Presentation Design Principles](a1.md) | Design principles applied and how they improved your presentation |
-| 2 | [Activity 2: Color Palette and Typography](a2.md) | Chosen colors and typography and why you selected them |
-| 3 | [Activity 3: Social Media Infographics and Mini Project Documentation](a3.md) | Output concept, design choices, and creative process |
+| 1 | [Activity 1: Presentation Design Principles](a1.md) | Design principles applied and how they improved your presentation 👌| 
+| 2 | [Activity 2: Color Palette and Typography](a2.md) | Chosen colors and typography and why you selected them 👌| 
+| 3 | [Activity 3: Social Media Infographics and Mini Project Documentation](a3.md) | Output concept, design choices, and creative process 👌| 
 
 ---
 
-## Reflection: Building and Managing This Digital Portfolio
+## Reflection: Building and Managing This Digital Portfolio 
 
 ### How I Created and Set Up the GitHub Repository
 
