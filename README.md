@@ -25,6 +25,8 @@ Present and elaborate on each of the three activities completed during the Preli
 
 I started by creating a new repository on GitHub named **Preliminary-Exam-Cermino** under my account. I initialized it with a `README.md` so it would have a landing page from the start. After creating the repository remotely.
 
+<img width="500" height="281" alt="tumblr_lvzzfsSKG91qeumowo1_500" src="https://github.com/user-attachments/assets/4f1a5a34-7570-4e33-84bc-82f8b8104cac" />
+
 ### How I Uploaded and Organized My Activities and Outputs
 
 I kept the repository flat and straightforward. Each activity has two dedicated files:
@@ -32,11 +34,17 @@ I kept the repository flat and straightforward. Each activity has two dedicated 
 - A **Markdown file** (`a1.md`, `a2.md`, `a3.md`) that contains the written documentation — the concept, development process, and reflection for each activity.
 - A **screenshot/image file** (`Activity1.png`, `Activity2.png`, `Activity3.png`) that serves as the visual output or proof of the completed work.
 
+  <img width="480" height="270" alt="WJyuMZ6 gif e15d6ebffe8d2a7e915c28e818c85a96" src="https://github.com/user-attachments/assets/b3c6950f-1189-4278-9ad1-9dcff23a5e26" />
+
 The `README.md` acts as the portfolio's table of contents, linking directly to each activity's Markdown file so any visitor can navigate the portfolio without confusion. I staged and committed files incrementally using `git add` and `git commit`, then pushed to GitHub with `git push`.
+
+<img width="500" height="254" alt="typing-fast-jim-carrey" src="https://github.com/user-attachments/assets/df139317-83f4-4359-9de8-7e5e67c0e449" />
 
 ### How I Made the Portfolio Accessible and Presentable
 
 GitHub renders Markdown files natively, so each `.md` file displays cleanly in any browser without any extra setup. I structured the `README.md` with a summary table that lists each activity, its title, and its topic — making it easy for a reader to understand the scope of work at a glance. Images are embedded directly inside each activity's Markdown file, so outputs are visible inline without needing to download anything. The repository is set to **public**, ensuring it is accessible to anyone with the link.
+
+<img width="498" height="208" alt="megamind-presentation" src="https://github.com/user-attachments/assets/da35b70a-b242-4da9-8887-d926ed3a6c58" />
 
 ### Challenges Encountered and How I Addressed Them
 
