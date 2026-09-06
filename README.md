@@ -23,7 +23,7 @@ Present and elaborate on each of the three activities completed during the Preli
 
 ### How I Created and Set Up the GitHub Repository
 
-I started by creating a new repository on GitHub named **Preliminary-Exam-Cermino** under my account. I initialized it with a `README.md` so it would have a landing page from the start. After creating the repository remotely.
+I started by creating a new repository on GitHub named **Preliminary-Exam-Cermino** under my account. I initialized it with a `README.md` so it would have a landing page from the start after creating the repository remotely.
 
 <img width="500" height="281" alt="tumblr_lvzzfsSKG91qeumowo1_500" src="https://github.com/user-attachments/assets/4f1a5a34-7570-4e33-84bc-82f8b8104cac" />
 
