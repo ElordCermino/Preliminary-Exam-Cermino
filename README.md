@@ -16,6 +16,8 @@ Present and elaborate on each of the three activities completed during the Preli
 | 3 | [Activity 3: Social Media Infographics and Mini Project Documentation](a3.md) | Output concept, design choices, and creative process 👌| 
 
 ---
+<img width="500" height="333" alt="4182abdc4112f761b5231a78ada81a71" src="https://github.com/user-attachments/assets/f5c8434d-b14e-40f1-986c-aa5075db5bca" />
+
 
 ## Reflection: Building and Managing This Digital Portfolio 
 
@@ -41,3 +43,5 @@ GitHub renders Markdown files natively, so each `.md` file displays cleanly in a
 - **File naming consistency** — Early on, I used inconsistent casing for image files, which caused broken image links on case-sensitive systems. I standardized all filenames to a simple `ActivityN.png` pattern and updated the Markdown references accordingly.
 - **Large image sizes** — Some activity screenshots were high-resolution and slow to load. I compressed them before committing to keep the repository lightweight without losing visible quality.
 - **README structure** — Getting the table of contents to be both informative and concise took a couple of revisions. I settled on a simple three-column table (number, linked title, topic summary) that communicates everything a reader needs upfront.
+
+<img width="320" height="260" alt="nice-smack" src="https://github.com/user-attachments/assets/69c54512-a846-47da-8583-c8e4eff352e8" />
