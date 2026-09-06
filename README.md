@@ -1,4 +1,5 @@
 # 21st Century IT Skills Preliminary Exam — Cermino, Joe Elord
+<img width="475" height="255" alt="tumblr_o06ly9ou5H1sy3ri0o1_500" src="https://github.com/user-attachments/assets/99c7bf28-c322-4514-83ab-9767236fd3ef" />
 
 Present and elaborate on each of the three activities completed during the Prelim period. For each activity, explain what you created, why you came up with the concept, and how you developed your final output.
 
